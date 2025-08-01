@@ -7,5 +7,7 @@ h1 , p{
     text-align: center;
 }
 header{
-    background-color: rgb(4, 186, 192);
+    background-color: rgb(17, 141, 243);
+    color: #f7f4f4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
