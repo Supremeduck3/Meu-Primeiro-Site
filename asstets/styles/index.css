@@ -1,0 +1,11 @@
+/*reset do css */
+*{
+    margin:0;
+    padding:10px;
+}
+h1 , p{
+    text-align: center;
+}
+header{
+    background-color: rgb(4, 186, 192);
+}
